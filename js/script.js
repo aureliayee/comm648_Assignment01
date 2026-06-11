@@ -65,27 +65,28 @@
 
 //STEP 12
 // let name = 'Aurelia Yee'
-// alert('Hello ' + name +', welcome to the JavaScript class!')
+// alert(`Hello ${name}, welcome to the JavaScript class!`)
 
 //STEP 13
 // let name = 'Aurelia Yee'
 // let course = 'JavaScript'
-// alert('Hello ' + name +', welcome to the ' + course + ' class!')
+// alert(`Hello ${name}, welcome to the ${course} class!`)
+
 
 //STEP 14
 // let name = 'Aurelia Yee'
 // let course = 'JavaScript'
-// alert('Hello ' + name +'.\nWelcome to the ' + course + ' class!')
+// alert(`Hello ${name}.\nWelcome to the ${course} class!`)
 
 //STEP 15
 // let name = prompt('What is your name?')
 // let course = 'JavaScript'
-// alert('Hello ' + name +'.\nWelcome to the ' + course + ' class!')
+// alert(`Hello ${name}.\nWelcome to the ${course} class!`)
 
 //STEP 16
 // let name = 'Aurelia'
 // let course = prompt('What class are you taking?')
-// alert('Hello ' + name +'.\nWelcome to the ' + course + ' class!')
+// alert(`Hello ${name}.\nWelcome to the ${course} class!`)
 
 //STEP 17
 // let x = 10
