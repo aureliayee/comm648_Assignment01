@@ -57,7 +57,7 @@
 // console.log(typeof 'String')
 // console.log(typeof 234)
 // console.log(typeof false)
-// console.log(typeof Object())
+// console.log(typeof new Object())
 // console.log(typeof notDefined)
 
 //STEP 11
